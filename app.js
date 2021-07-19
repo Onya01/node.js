@@ -1,4 +1,4 @@
-// Topic: File System Module pt2 (folder)
+// Topic: File System Module (folder)
 
 const fs = require("fs");
 
@@ -17,7 +17,7 @@ const fs = require("fs");
   }
  });
 
- 
+
 // to delete folder
 // fs.unlink('./tutorial/example.txt',(err)=>{
 //  if(err)
